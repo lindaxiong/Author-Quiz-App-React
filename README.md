@@ -1,2 +1,1 @@
-# Author Quiz
-## React
+# Author Quiz using React
